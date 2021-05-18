@@ -1,7 +1,5 @@
 # CS410 MP2---Search Engines
 
-In this 4-part MP, you will get familiar with building and evaluating Search Engines.
-
 ## Part 1
 
 We will start by building a dataset consisting of the homepages of faculty memebers from different universities' Engineering and Science departments.
@@ -33,27 +31,3 @@ Some Tutorials:
    
 Finally, the browser developer tools are highly useful to inspect and identify the HTML elements where the required information resides in the webpage. 
 
-
-### Grading
-
-We will use the following rubric for grading. Points are awarded in a sequential manner (e.g., you get no points for c. if b. is not satisfied) and are additive. Thus, there are 4 possible points: 0, 0.1, 0.3 and 1, or equivalently 0, 10, 30, and 100 points on Coursera. 
-
-a. Submitted all the files. There should be at least six URLs in "bio_urls.txt". Also, please remove non-ascii characters. -- 0.1 points 
-
-		Your repo should have the following files:
-
-			├── README.md
-			├── bio_urls.txt
-			├── bios.txt
-			├── livedatalab_config.json
-			├── sample
-			│   ├── bio_urls.txt
-			│   ├── bios.txt
-			│   └── scraper.ipynb
-			└── scraper_code
-			    └── scraper.ipynb  OR scraper.py
-
-
-b. "bios.txt" and "bio_urls.txt" are properly formatted as mentioned in 2. above -- +0.2 points  
-
-c. Submitted URLs in "bio_urls.txt" don't overlap with other students' submissions including previous years' submissions (max 5 overlapping URLs allowed). -- +0.7 points
